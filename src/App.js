@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          gh-pages
+          gh-pages-cnsusu
         </a>
       </header>
     </div>
