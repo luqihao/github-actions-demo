@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          亚视啦黎彤
+          gh-pages
         </a>
       </header>
     </div>
