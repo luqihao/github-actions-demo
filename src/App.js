@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          gg + mm
+          亚视啦黎彤
         </a>
       </header>
     </div>
